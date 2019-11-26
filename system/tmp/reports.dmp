@@ -1,0 +1,122 @@
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 51433,
+  "reportTime": 1572454633599,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135657-AI-191.8026.42.35.5900203\\threadDump-20191030-135713.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 68749,
+  "reportTime": 1572454650915,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203\\threadDump-20191030-135730.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 73783,
+  "reportTime": 1572454655949,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203\\threadDump-20191030-135735.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 78871,
+  "reportTime": 1572454661037,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203\\threadDump-20191030-135740.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 83613,
+  "reportTime": 1572454665779,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203-20sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203-20sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203-20sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135724-AI-191.8026.42.35.5900203-20sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 19330
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 107998,
+  "reportTime": 1572454690164,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135803-AI-191.8026.42.35.5900203\\threadDump-20191030-135810.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 113049,
+  "reportTime": 1572454695215,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135803-AI-191.8026.42.35.5900203\\threadDump-20191030-135815.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 116385,
+  "reportTime": 1572454698550,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135803-AI-191.8026.42.35.5900203-12sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135803-AI-191.8026.42.35.5900203-12sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135803-AI-191.8026.42.35.5900203-12sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-135803-AI-191.8026.42.35.5900203-12sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 13110
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 7726986,
+  "reportTime": 1572462306202,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-160500-AI-191.8026.42.35.5900203\\threadDump-20191030-160506.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "3.5.1.0",
+  "kotlinVersion": "1.3.50-release-Studio3.5-1",
+  "uptime": 7728255,
+  "reportTime": 1572462307471,
+  "sessionId": "db0522c3-a3ac-4160-bbb5-263a1e5fd7be",
+  "threadDumpPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-160500-AI-191.8026.42.35.5900203-7sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-160500-AI-191.8026.42.35.5900203-7sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-160500-AI-191.8026.42.35.5900203-7sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\schil\\.AndroidStudio3.5\\system\\log\\threadDumps-freeze-20191030-160500-AI-191.8026.42.35.5900203-7sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 6174
+}

@@ -1,0 +1,7 @@
+Actions:
+Action when freeze detected: com.android.tools.idea.uibuilder.editor.NlActionManager$AndroidRefactoringActionWrapper (null)
+Action duration when freeze detected: 5548ms
+Action started: com.intellij.ide.actions.DeleteAction ($Delete)
+Action finished: com.intellij.ide.actions.DeleteAction ($Delete), duration: 180ms
+Action when freeze ended: (no action)
+Action duration when freeze ended: 0ms

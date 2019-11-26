@@ -1,0 +1,6 @@
+Actions:
+Action when freeze detected: com.intellij.ide.actions.ShowPopupMenuAction (ShowPopupMenu)
+Action duration when freeze detected: 5286ms
+Action finished: com.intellij.ide.actions.ShowPopupMenuAction (ShowPopupMenu), duration: 5638ms
+Action when freeze ended: (no action)
+Action duration when freeze ended: 0ms

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\codeStyles\Project.xml" timestamp="1571846847992" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\gradle.xml" timestamp="1571846860766" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\inspectionProfiles\Project_Default.xml" timestamp="1572266938897" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1572266199826" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_annotation_annotation_1_0_0_jar.xml" timestamp="1571846860844" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1572266199898" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" timestamp="1571846860907" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1572266199959" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1572266200052" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" timestamp="1571846861001" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1572266200101" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1571846861063" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" timestamp="1571846861126" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_collection_collection_1_0_0_jar.xml" timestamp="1571846861190" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1572266200146" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1571846861250" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1571846861326" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" timestamp="1571846861446" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_core_core_1_0_1_aar.xml" timestamp="1571846861493" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1572266200190" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1571846861509" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1571846861556" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" timestamp="1571846861634" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1571846861681" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_fragment_fragment_1_0_0_aar.xml" timestamp="1571846861728" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1572266200234" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1571846861806" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" timestamp="1571846861884" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" timestamp="1571846861931" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" timestamp="1571846861993" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1572266200278" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1571846862071" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1571846862149" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" timestamp="1571846862246" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1572266200339" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" timestamp="1571846862306" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1572266200381" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1571846862378" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" timestamp="1571846862454" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_print_print_1_0_0_aar.xml" timestamp="1571846862525" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1572266200411" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" timestamp="1571846862588" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" timestamp="1571846862650" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_core_1_1_0_aar.xml" timestamp="1571846862713" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1572266200451" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" timestamp="1571846862822" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1572266200496" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" timestamp="1571846862869" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1572266200527" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_0_aar.xml" timestamp="1571846862916" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1572266200570" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_monitor_1_1_1_aar.xml" timestamp="1571846862979" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1572266200608" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_runner_1_1_1_aar.xml" timestamp="1571846863025" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1572266200651" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" timestamp="1571846863072" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1572266200697" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" timestamp="1571846863135" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1572266200732" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" timestamp="1571846863197" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1572266200768" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1571846863265" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1571846863317" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_google_code_gson_gson_2_8_5_jar.xml" timestamp="1572086341968" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1571846863474" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_squareup_okhttp3_okhttp_3_12_0_jar.xml" timestamp="1572086342095" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_squareup_okio_okio_1_15_0_jar.xml" timestamp="1572086342256" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_squareup_retrofit2_converter_gson_2_6_2_jar.xml" timestamp="1572086342331" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__com_squareup_retrofit2_retrofit_2_6_2_jar.xml" timestamp="1572086342456" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1571846863521" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1571846863552" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1571846863599" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1571846863693" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1571846863740" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1571846863787" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\misc.xml" timestamp="1572266939097" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\modules.xml" timestamp="1571846860639" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\runConfigurations.xml" timestamp="1571846848117" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\.idea\workspace.xml" timestamp="1572465311229" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\OrgandyLife.iml" timestamp="1571852880085" />
+    <file path="C:\Users\schil\AndroidStudioProjects\OrgandyLife2\app\app.iml" timestamp="1572266199494" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,56 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/OrgandyLife2" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Integrador" />
+        <option value="$USER_HOME$/AndroidStudioProjects/OrgandyLife" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/OrgandyLife2" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/OrgandyLife2" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Integrador">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5900203" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571846847052" />
+              <option name="buildTimestamp" value="1569446002357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/OrgandyLife">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5900203" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571658223219" />
+              <option name="buildTimestamp" value="1569445996972" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/OrgandyLife2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5900203" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572454645984" />
+              <option name="buildTimestamp" value="1569446031807" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

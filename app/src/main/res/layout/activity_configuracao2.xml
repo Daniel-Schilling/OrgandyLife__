@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".configuracao2">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:padding="3dip"
+            android:text="Alterar Dados Cadastrais"
+            android:textColor="#242424"
+            android:textSize="24sp" />
+    </TableRow>
+
+        <EditText
+            android:id="@+id/etMudaNome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="9dp"
+            android:hint="Nome de usuário" />
+
+        <EditText
+            android:id="@+id/etMudaEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="E-mail" />
+
+        <EditText
+            android:id="@+id/etMudaSenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Senha" />
+
+        <EditText
+            android:id="@+id/etMudaConfSenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Confirme sua senha" />
+
+        <EditText
+            android:id="@+id/etMatricula"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:hint="Nº de Matrícula" />
+
+    <Button
+        android:id="@+id/btSalvar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salvar Alterações" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="226dp"
+                android:layout_height="wrap_content"
+                android:text="Excluir conta"
+                android:textColor="#242424"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btDeletar"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:text="Deletar" />
+    </TableRow>
+
+        <TableRow
+            android:layout_width="233dp"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Notificação"
+                android:textAllCaps="false"
+                android:textColor="#242424"
+                android:textSize="24sp" />
+
+            <Switch
+                android:id="@+id/switch4"
+                android:layout_width="wrap_content"
+                android:layout_height="37dp"
+                android:checked="false"
+                android:clickable="false"
+                android:textOff="Desativar"
+                android:textOn="Ativar" />
+
+        </TableRow>
+
+    <Button
+        android:id="@+id/btSair"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SAIR" />
+    </TableLayout>
+</RelativeLayout>

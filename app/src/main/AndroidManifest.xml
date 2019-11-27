@@ -6,10 +6,9 @@
 
     <uses-feature
         android:name="android.hardware.camera"
-        android:required="true"
-        />
+        android:required="true" />
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <dist:module dist:instant="true" />
 
@@ -21,7 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Configuracao"></activity>
+        <activity android:name=".configuracao2"></activity>
         <activity
             android:name=".Inicio"
             android:label="@string/title_activity_inicio"

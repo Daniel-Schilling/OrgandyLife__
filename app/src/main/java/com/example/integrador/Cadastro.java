@@ -12,7 +12,6 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.hardware.Camera;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -28,7 +27,7 @@ import java.util.List;
 
 public class Cadastro extends AppCompatActivity implements Validator.ValidationListener {
 
-
+    private UsuarioDAO dao;
 
     @NotEmpty(message = "Campo obrigatório!")
     @Length(min = 3, max = 40, message = "O nome deve ter entre 3 e 40 caracteres")
@@ -50,13 +49,14 @@ public class Cadastro extends AppCompatActivity implements Validator.ValidationL
     private EditText etMatricula;
 
     private Button btCadastro;
-
     private Validator validator;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cadastro);
+        dao = new UsuarioDAO(this);
+
         this.inicializaComponentes();
         this.btCadastro.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -65,8 +65,8 @@ public class Cadastro extends AppCompatActivity implements Validator.ValidationL
             }
         });
 
-
     }
+
 
     public void onCheckboxClicked(View view) {
         boolean checked = ((CheckBox) view).isChecked();
@@ -91,6 +91,16 @@ public class Cadastro extends AppCompatActivity implements Validator.ValidationL
         this.validator.setValidationListener(this);
 
     }
+    public void salvar(View view){
+        CadastroUsuario a = new CadastroUsuario();
+        a.setNome(etNome.getText().toString());
+        a.setEmail(etEmail.getText().toString());
+        a.setSenha(etSenha.getText().toString());
+        a.setConfSenha(etConfSenha.getText().toString());
+        a.setMatricula(etMatricula.getText().toString());
+        long id = dao.inserir(a);
+        Toast.makeText(this, "Aluno inserido com id: "+id, Toast.LENGTH_LONG).show();
+    }
 
     @Override
     public void onValidationSucceeded(){
@@ -108,8 +118,6 @@ public class Cadastro extends AppCompatActivity implements Validator.ValidationL
                 ((TextView) componente).setError(mensagemErro);
             }
         }
-
-
 
     }
     public class Camera extends Activity{

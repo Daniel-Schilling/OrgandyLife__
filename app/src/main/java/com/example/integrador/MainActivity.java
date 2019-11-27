@@ -21,9 +21,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent itLogin = new Intent(MainActivity.this, Login.class);
-
                 startActivity(itLogin);
-                finish();
             }
         });
 
@@ -33,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
                 Intent itCadastro = new Intent(MainActivity.this, Cadastro.class);
 
                 startActivity(itCadastro);
-                finish();
             }
         });
     }
